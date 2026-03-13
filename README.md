@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png">
+<img src="Banner.png">
 </p>
 <h1 align="center">🚀 Notion AI Task Planner</h1>
 
